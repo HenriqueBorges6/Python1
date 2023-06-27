@@ -1,3 +1,5 @@
+#
+
 nome = input('digite seu nome: ')
 idade = input('digite sua idade: ')
 if nome and idade:
